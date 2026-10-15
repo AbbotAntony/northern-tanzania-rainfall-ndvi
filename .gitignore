@@ -1,0 +1,17 @@
+# Input data - not redistributed (TMA terms; large rasters)
+data/*
+!data/README.md
+
+# Generated outputs
+outputs/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
